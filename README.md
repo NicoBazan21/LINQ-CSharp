@@ -2,6 +2,7 @@ Proyecto sencillo de Consola probando la mayoria de las funciones que ofrece LIN
 
 Cada funcion cuenta con ambas sintaxis:
 Sintaxis SQL
+y
 Sintaxis LINQ/lambda
 
 Y ofrece una breve explicacion en la documentacion.
